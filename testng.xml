@@ -7,4 +7,5 @@
       <class name="hrms.New"/>
     </classes>
   </test> <!-- Test -->
+  
 </suite> <!-- Suite -->

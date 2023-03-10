@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-10T12:59:02 IST" name="Default suite" finished-at="2023-03-10T12:59:03 IST" duration-ms="62">
+  <suite started-at="2023-03-10T14:56:44 IST" name="Suite" finished-at="2023-03-10T14:56:44 IST" duration-ms="46">
     <groups>
     </groups>
-    <test started-at="2023-03-10T12:59:02 IST" name="Default test" finished-at="2023-03-10T12:59:03 IST" duration-ms="62">
+    <test started-at="2023-03-10T14:56:44 IST" name="Test" finished-at="2023-03-10T14:56:44 IST" duration-ms="46">
+      <class name="hrms.New2">
+        <test-method signature="up()[pri:0, instance:hrms.New2@4a7f959b]" started-at="2023-03-10T14:56:44 IST" name="up" finished-at="2023-03-10T14:56:44 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- up -->
+      </class> <!-- hrms.New2 -->
       <class name="hrms.New">
-        <test-method signature="main()[pri:0, instance:hrms.New@63a12c68]" started-at="2023-03-10T12:59:03 IST" name="main" finished-at="2023-03-10T12:59:03 IST" duration-ms="10" status="PASS">
+        <test-method signature="main()[pri:0, instance:hrms.New@5562c41e]" started-at="2023-03-10T14:56:44 IST" name="main" finished-at="2023-03-10T14:56:44 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
       </class> <!-- hrms.New -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
