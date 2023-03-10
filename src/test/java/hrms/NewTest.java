@@ -7,6 +7,7 @@ public class NewTest {
 	@Test
 public void main() {
 	System.out.println("test1");
+	System.out.println(System.getProperty("URL"));
 }
 public void jain() {
 	System.out.println("test2");
